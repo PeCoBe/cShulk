@@ -1,0 +1,12 @@
+def     function definition     I'm really feeling it!
+extern  global variable         A world with no gods
+if      control flow            Monado show me the way
+then    cf                      Almost there!
+else    cf                      Oh wait!
+(                               Monado
+)                               Shield us
++                               Monado Eater
+-                               Monado Purge
+>                               Monado Enchant
+*                               Monado Cyclone
+;                               !
